@@ -36,11 +36,31 @@ Then open `http://localhost:8000`
 modern-product-showcase/
 ├── index.html
 ├── detail.html
+├── detail.js
+├── script.js
+├── style.css
+├── detail.css
+├── README.md
 └── assets/
-    ├── css/style.css
-    ├── js/script.js
-    ├── images/
-    └── data.json
+    ├── data.json
+    └── images/
+        ├── earphone-black.jpg
+        ├── earphone-white.jpg
+        ├── earphone.jpg
+        ├── earpods-black.jpg
+        ├── earpods.jpg
+        ├── headphone-2.jpg
+        ├── headphone-3.jpg
+        ├── headphone-4.jpg
+        ├── headphone-5.jpg
+        ├── headphone-6.jpg
+        ├── headphone-black.jpg
+        ├── headphone-model.jpg
+        ├── headphone-monochrome.jpg
+        ├── headphone-on-laptop.jpg
+        ├── headphone.jpg
+        ├── hero-earpods.jpg
+        └── main-image.jpg
 ```
 
 ## 🎨 Customization
@@ -65,7 +85,7 @@ Edit `assets/data.json`:
 
 ### Change Colors
 
-In `assets/css/style.css`:
+In `style.css`:
 
 ```css
 /* Primary color */
